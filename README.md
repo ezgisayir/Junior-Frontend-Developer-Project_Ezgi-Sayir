@@ -1,0 +1,1 @@
+# Junior-Frontend-Developer-Project_Ezgi-Sayir
