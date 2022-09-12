@@ -1,0 +1,19 @@
+body {
+    background-color: #e9ddd6;   
+}
+
+#second-div {
+    float: left;
+    margin-top: 10px;
+    margin-right: 5%;   
+}
+
+.photos {
+    width: 300px;
+    justify-content: center;
+    margin-left: 150px;
+}
+
+#cards {
+    float: left; 
+}
